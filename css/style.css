@@ -249,6 +249,12 @@ header.shadow .logo {
     margin: 1rem 0;
     text-align: justify;
 }
+.hyperlink {
+    font-size: 1rem;
+    line-height: 1.7rem;
+    margin: 1rem 0;
+    text-align: justify;
+}
 .share {
     display: flex;
     flex-direction: column;
